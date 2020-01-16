@@ -1,5 +1,5 @@
 
-package game;
+
 
 
 class KOKO {
